@@ -1,0 +1,117 @@
+#btn-dis{
+    display: flex;
+    position:relative;
+    top: 50px;
+}
+
+#day{
+    margin-left: 800px;
+    position: relative;
+    top: -80px;
+}
+
+#night{
+    color: white;
+    background-color: rgb(40, 37, 37);
+    margin-left: 100px;
+    position: relative;
+    top: -80px;
+}
+#container{
+    display:flex
+}
+#container img{
+    height: 300px;
+    width: 33%;
+    position:relative;
+    left: 100px;
+}
+.tabhd{
+    padding: 10px;
+}
+.btn-3{
+    display: flex;
+    position: relative;
+    top: 20px;
+}
+
+#res{
+    margin-left: 100px;
+    width:500px;
+    height: 350px;
+    border-radius: 10px;
+    background-color: rgba(212, 211, 211, 0.897);
+    padding-left: 30px;
+    padding-top: 30px;
+    padding-bottom: 10px;
+}#res p{
+    font-size: small;
+    
+}
+
+#res label{
+    font-weight: 500;
+    margin-bottom: 10px;
+}
+.btn-r1{
+    border-radius: 5px;
+    border: 1.5px solid black;
+    background: white;
+}
+ .btn-r1:focus{
+    background-color: black;
+    color: white;
+}
+.btn-r2 {
+    border-radius: 5px;
+    border: 1.5px solid black;
+    background: white;
+}
+
+.btn-r2:focus {
+    background-color: black;
+    color: white;
+}
+.btn-r3 {
+    border-radius: 5px;
+    border: 1.5px solid black;
+    background: white;
+}
+
+.btn-r3:focus {
+    background-color: black;
+    color: white;
+}
+
+.sub{
+    margin-top: 10px;
+    border-radius: 7px;
+    background-color: rgb(255, 166, 0);
+    color:rgb(192, 234, 220)
+}
+.btn-del{
+    border: red;
+    background: none;
+}
+#tab{
+    min-height: 60px;
+    width: 1000px;
+    background-color: black;
+    color: white;
+    border: 1px solid black;
+    margin-left: 120px;
+}
+
+.rw{
+    background-color: rgb(43, 42, 42);
+}
+
+.warn{
+    height: 60px;
+    width: 100%;
+    border-radius: 8px;
+    background-color: rgb(238, 223, 150);
+    font-size: large;
+    font-weight: 500;
+    font-family: Arial, Helvetica, sans-serif;
+}
